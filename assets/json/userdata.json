@@ -1,0 +1,14 @@
+{
+    "data": {
+        "name": "Amal Khairin",
+        "description": "I'm Student at Telkom University and Flutter Enthusiast",
+        "email": "amalkhairinn@gmail.com",
+        "image":"http://localhost:8080/Amalkhairin/assets/img/pict1.png",
+        "cv_link": "#",
+        "social_media": {
+            "instagram": "https://instagram.com/amalkhrn",
+            "linkedin": "https://linkedin.com/in/amal-khairin",
+            "github": "https://github.com/amalkhairin"
+        }
+    }
+}

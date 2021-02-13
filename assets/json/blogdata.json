@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Writing Native Code in Flutter",
+            "thumbnail": "https://miro.medium.com/max/700/1*10RECXGTH5NyaeBg5yD1pw.png",
+            "desc": "Flutter memungkinkan kita memanggil Native API untuk...",
+            "link": "https://medium.com/rplgdc-laboratory/writing-native-code-in-flutter-cfd6604125f3",
+            "published": "Nov 4, 2020"
+        },
+        {
+            "id": 2,
+            "title": "Create Landing Page Website with Flutter",
+            "thumbnail": "https://miro.medium.com/max/700/1*_u5SUE60Hb17Nb9-zbqDAQ.png",
+            "desc": "Flutter merupakan framework bahasa pemrograman dart ...",
+            "link": "https://medium.com/rplgdc-laboratory/create-a-landing-page-website-with-flutter-2f68bf2d6630",
+            "published": "Oct 4, 2020"
+        },
+        {
+            "id": 3,
+            "title": "Flutter: ListView Part 1",
+            "thumbnail": "https://miro.medium.com/max/700/1*NPaPZh80RX1AvMykALzR_w.png",
+            "desc": "Pada kesempatan kali ini saya akan membahas ListView...",
+            "link": "https://medium.com/rplgdc-laboratory/flutter-listview-part-1-36e3f0a8f4ce",
+            "published": "Oct 3, 2020"
+        },
+        {
+            "id": 4,
+            "title": "Flutter Face Detection App with Firebase ML Kit",
+            "thumbnail": "https://miro.medium.com/max/700/1*IOS86CPoIY-xxZvMKlPc8A.jpeg",
+            "desc": "ML Kit merupakan SDK yang menghadirkan Machine Learn...",
+            "link": "https://medium.com/@amalkhairin/flutter-face-detection-app-with-firebase-ml-kit-5acdd9087e1",
+            "published": "Dec 20, 2019"
+        },
+        {
+            "id": 5,
+            "title": "Flutter #1: Membuat aplikasi Hello World",
+            "thumbnail": "https://miro.medium.com/max/700/1*uviOipWoE9XDn5BZsEPs2Q.png",
+            "desc": "Pada tutorial pertama ini, kita akan mencoba membuat...",
+            "link": "https://medium.com/@amalkhairin/flutter-1-membuat-aplikasi-hello-world-a43c26309875",
+            "published": "Oct 17, 2019"
+        },
+        {
+            "id": 6,
+            "title": "Dart Fundamental",
+            "thumbnail": "https://miro.medium.com/max/700/1*mUG0qA5DqrFxCIRW6Vq02Q.png",
+            "desc": "Dartlang atau Dart Language merupakan bahasa pemrogr...",
+            "link": "https://medium.com/@amalkhairin/dart-fundamental-c360df33971c",
+            "published": "Oct 6, 2019"
+        },
+        {
+            "id": 7,
+            "title": "Flutter? Apa sih itu?",
+            "thumbnail": "https://miro.medium.com/max/700/1*DhN70kLtMHKe6g5pA6BSEg.png",
+            "desc": "Flutter merupakan UI Toolkit yang dibuat oleh Google...",
+            "link": "https://medium.com/rplgdc-laboratory/what-is-flutter-6c6498952c34",
+            "published": "Oct 3, 2019"
+        }
+    ]
+}

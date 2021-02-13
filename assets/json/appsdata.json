@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "MaiLuv",
+            "icon_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
+            "desc": "Aplikasi MaiLuv merupakan aplikasi khusus untuk kaum jomblo. Aplikasi ini dapat digunakan untuk membuat chat palsu, voice call palsu, dan video call palsu, dan tentunya untuk discreenshot buat dipamer di stroy (supaya dikiranya punya pasangan hehe)",
+            "photo": {
+                "photo_1": "https://i.ibb.co/X2gPrgW/photo-2021-02-13-19-31-10.jpg",
+                "photo_2": "https://i.ibb.co/9Vc20zT/photo-2021-02-13-19-31-09.jpg",
+                "photo_3": "https://i.ibb.co/qFLvfVT/photo-2021-02-13-19-31-08.jpg",
+                "photo_4": "https://i.ibb.co/T4mW30b/photo-2021-02-13-19-31-07.jpg",
+                "photo_5": "https://i.ibb.co/6Dmq3fr/photo-2021-02-13-19-31-06.jpg"
+            },
+            "version": "0.2.1",
+            "dev":"Amal Khairin",
+            "release_notes": "Version 0.2.1\r\nWhat's new?\r\n+ Add Video Call Feature\r\n+ Add Send Image Feature\r\n+ Bug Fixed",
+            "type": "open source",
+            "download_link":"https://drive.google.com/uc?export=download&id=1UxiDuNzK-N1o1cNh6RJVy5HPAbHb02de",
+            "source": "https://github.com/amalkhairin/mayluv-app"
+        }
+    ]
+}
